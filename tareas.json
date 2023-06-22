@@ -1,0 +1,22 @@
+[
+    {
+       "titulo": "avanzar en playground",
+       "estado": "terminado"
+    },
+    {
+       "titulo": "armar aplicacion de tareas",
+       "estado": "pendiente"
+    },
+    {
+       "titulo": "break",
+       "estado": "pendiente"
+    },
+    {
+       "titulo": "entregar trabajo practico",
+       "estado": "pendiente"
+    },
+    {
+       "titulo": "nueva tarea",
+       "estado": "pendiente"
+    }
+ ]
